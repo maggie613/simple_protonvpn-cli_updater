@@ -1,1 +1,4 @@
+#!/bin/sh
+
+# Use Python Package Index to update protonvpn-cli
 sudo -H pip3 install protonvpn-cli --upgrade
